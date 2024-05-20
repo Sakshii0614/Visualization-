@@ -39,8 +39,5 @@ This project aims to analyze and visualize data related to online food services.
 - **figures/**: Visualizations generated during the analysis.
 - **final_report.md**: Detailed report of the project findings and visualizations.
 
-## Example Results
-
-![Example Visualization](reports/figures/example_visualization.png)
 
 
